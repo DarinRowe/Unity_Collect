@@ -1,0 +1,8 @@
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\obj\Debug\SystemDebugger.csprojResolveAssemblyReference.cache
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\bin\Debug\SystemDebugger.dll.config
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\bin\Debug\SystemDebugger.dll
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\bin\Debug\SystemDebugger.pdb
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\bin\Debug\UnityEngine.dll
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\bin\Debug\UnityEngine.xml
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\obj\Debug\SystemDebugger.dll
+C:\Users\S410\Desktop\SystemDebugger\SystemDebugger\obj\Debug\SystemDebugger.pdb
